@@ -1,5 +1,5 @@
 import streamlit as st
-from Protein Classifier import (
+from protein_classifier import (
     download_protein_data,
     translate_rna
 )
